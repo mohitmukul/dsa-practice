@@ -54,6 +54,25 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
    - Approach: Two-pointer in-place swap
    - Time:1- O(n), space:O(1)
 
+
+   #### Day 2 (Oct 28, 2024)
+
+6. **Rotate array**
+   - File: `arrays/day3-Rotate-Array.js`
+   - Difficulty: medium
+   - Approach: 1= using extra array
+               2= reverse method (using two pointer)
+   - Time:1= O(n), Space: O(n)
+          2= O(n), Space: O(1)
+
+6. **Move Zeros**
+   - File: `arrays/day3-Move-Zero.js`
+   - Difficulty: easy
+   - Approach: 1= using Two Pointer
+              
+   - Time: O(n), Space: O(1)
+
+
 ## 🎯 Learning Notes
 
 ### Array Patterns Learned:
