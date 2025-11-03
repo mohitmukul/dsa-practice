@@ -32,13 +32,13 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
    - Time: O(n), Space: O(1)
 
 #### Day 2 (Oct 28, 2024)
-3. **Check if Array is Sorted**
+4. **Check if Array is Sorted**
    - File: `arrays/day2-is-sorted.js`
    - Difficulty: Easy
    - Approach: Compare each element with next
    - Time: O(n), Space: O(1)
 
-4. **Remove Duplicates from Sorted Array**
+5. **Remove Duplicates from Sorted Array**
    - File: `arrays/day2-Remove-duplicate.js`
    - Difficulty: Easy
    - Approach:1- In-place removal (nested loops)
@@ -48,16 +48,16 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
           2- O(n), Space: O(n)
           3- O(n), space: O(1)
 
-5. **Reversing Array**
+6. **Reversing Array**
    - File: `arrays/day2-Reverse-array.js`
    - Difficulty: Easy
    - Approach: Two-pointer in-place swap
    - Time:1- O(n), space:O(1)
 
 
-   #### Day 2 (Oct 28, 2024)
+   #### Day 3 (Oct 28, 2024)
 
-6. **Rotate array**
+7. **Rotate array**
    - File: `arrays/day3-Rotate-Array.js`
    - Difficulty: medium
    - Approach: 1= using extra array
@@ -65,12 +65,30 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
    - Time:1= O(n), Space: O(n)
           2= O(n), Space: O(1)
 
-6. **Move Zeros**
+8. **Move Zeros**
    - File: `arrays/day3-Move-Zero.js`
    - Difficulty: easy
    - Approach: 1= using Two Pointer
               
    - Time: O(n), Space: O(1)
+
+    #### Day 3 (Oct 28, 2024)
+
+9. **Merge array**
+   - File: `arrays/day4-Merge-sorted-array.js`
+   - Difficulty: easy
+   - Approach: 1= using three pointers
+            
+   - Time:1= O(m+n), Space: O(1)
+
+10. **Shuffle array**
+   - File: `arrays/day4-Merge-sorted-array.js`
+   - Difficulty: easy
+   - Approach: 1= creating extra array to store
+            
+   - Time:1= O(n), Space: O(n)
+          
+
 
 
 ## 🎯 Learning Notes
@@ -80,6 +98,9 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 - single pass for-loop over the array indices
 - Two pointers technique for in-place operations(for duplicate,reverse)
 - Compare each element with next using for loop(checking sort)
+- using three pointers
+
+
 
 
 ## 🔗 Resources
@@ -91,7 +112,8 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 
 - Oct 27: Started DSA journey, solved 3 array problems
 - Oct 28: Continued arrays, learned two pointers basics
+- Nov 3 : completed 10 arrays problem with 1 medium problem
 
 ---
 
-*Updated: Oct 28, 2024*
+*Updated: Nov 3, 2025*
