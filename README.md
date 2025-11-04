@@ -88,7 +88,19 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
             
    - Time:1= O(n), Space: O(n)
           
+10. **Missing-Number**
+   - File: `arrays/day5-Missing-Number.js`
+   - Difficulty: easy
+   - Approach: 1= creating extra array to store
+            
+   - Time:1= O(n), Space: O(n)
 
+10. **Contains-duplicate**
+   - File: `arrays/day5-contains-duplicate.js`
+   - Difficulty: easy
+   - Approach: 1= creating extra array to store
+            
+   - Time:1= O(n), Space: O(n)
 
 
 ## 🎯 Learning Notes
@@ -99,6 +111,8 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 - Two pointers technique for in-place operations(for duplicate,reverse)
 - Compare each element with next using for loop(checking sort)
 - using three pointers
+- using set for comparision
+
 
 
 
@@ -113,7 +127,8 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 - Oct 27: Started DSA journey, solved 3 array problems
 - Oct 28: Continued arrays, learned two pointers basics
 - Nov 3 : completed 10 arrays problem with 1 medium problem
+-Nov 4 : completed 12 array problem
 
 ---
 
-*Updated: Nov 3, 2025*
+*Updated: Nov 4, 2025*
