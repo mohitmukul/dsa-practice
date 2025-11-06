@@ -10,7 +10,7 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 
 ## 📁 Problems by Topic
 
-### Arrays (6 problems)
+### Arrays (12 problems)
 
 #### Day 1 (Oct 27, 2024)
 1. **Second Largest Element in Array**
@@ -72,7 +72,7 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
               
    - Time: O(n), Space: O(1)
 
-    #### Day 3 (Oct 28, 2024)
+    #### Day 4 (Oct 28, 2024)
 
 9. **Merge array**
    - File: `arrays/day4-Merge-sorted-array.js`
@@ -87,20 +87,42 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
    - Approach: 1= creating extra array to store
             
    - Time:1= O(n), Space: O(n)
-          
-10. **Missing-Number**
+         
+   # Day-5
+11. **Missing-Number**
    - File: `arrays/day5-Missing-Number.js`
    - Difficulty: easy
    - Approach: 1= creating extra array to store
             
    - Time:1= O(n), Space: O(n)
 
-10. **Contains-duplicate**
+12. **Contains-duplicate**
    - File: `arrays/day5-contains-duplicate.js`
    - Difficulty: easy
    - Approach: 1= creating extra array to store
             
    - Time:1= O(n), Space: O(n)
+
+
+### Strint (2 problems)
+
+# Day-10
+
+13. **Missing-Number**
+   - File: `String/day-10-reverse-string.js`
+   - Difficulty: easy
+   - Approach: 1= two pointer
+            
+   - Time:1= O(n), Space: O(1)
+
+14. **Contains-duplicate**
+   - File: `String/day-10-valid-palindrome.js`
+   - Difficulty: easy
+   - Approach: 1= two pointers and converting into array
+               2 two pointers
+            
+   - Time:1= O(n), Space: O(n)
+   -      2= O(n), Space: O(1)
 
 
 ## 🎯 Learning Notes
@@ -127,8 +149,9 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 - Oct 27: Started DSA journey, solved 3 array problems
 - Oct 28: Continued arrays, learned two pointers basics
 - Nov 3 : completed 10 arrays problem with 1 medium problem
--Nov 4 : completed 12 array problem
+- Nov 4 : completed 12 array problem
+- Nov 6 : started String problems
 
 ---
 
-*Updated: Nov 4, 2025*
+*Updated: Nov 6, 2025*
