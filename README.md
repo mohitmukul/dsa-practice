@@ -124,6 +124,24 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
    - Time:1= O(n), Space: O(n)
    -      2= O(n), Space: O(1)
 
+# Day-11
+
+15. **First-unique-char**
+   - File: `String/day-11-first-unique-char.js`
+   - Difficulty: easy
+   - Approach: 1= two pass             
+   - Time:1= O(n), Space: O(1)
+   
+16. **longest-prefix** 
+
+   - File: `String/day-11-longest-prefix.js`
+   - Difficulty: easy
+   - Approach: 1= two pass
+               
+            
+   - Time:1= O(n), Space: O(1)
+   
+
 
 ## 🎯 Learning Notes
 
@@ -135,7 +153,11 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 - using three pointers
 - using set for comparision
 
+### String Patterns Learned:
 
+- two pointer
+- two pass
+- Vertical Scannig (comparing each char column one by one)
 
 
 
