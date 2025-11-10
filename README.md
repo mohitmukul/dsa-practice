@@ -142,6 +142,37 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
    - Time:1= O(n), Space: O(1)
    
 
+## Day-12
+
+17. **running-sum**
+
+     - File: `String/day-12-running-sum.js`
+   - Difficulty: easy
+   - Approach: two pointer
+               
+            
+   - Time:1= O(n), Space: O(1)
+
+ 18.    **merge-string**
+
+     - File: `String/day-12-merge-string.js`
+   - Difficulty: easy
+   - Approach: two pointer
+               
+            
+   - Time:1= O(n), Space: O(1)
+
+19.    **Kids With the Greatest Number of Candies**
+
+     - File: `String/day-12-Candy.js`
+   - Difficulty: medium
+   - Approach: single pass
+               two pointer
+
+               
+            
+   - Time:1= O(n), Space: O(n)   
+
 
 ## 🎯 Learning Notes
 
@@ -173,7 +204,8 @@ My daily Data Structures & Algorithms practice tracking my 100+ problem goal.
 - Nov 3 : completed 10 arrays problem with 1 medium problem
 - Nov 4 : completed 12 array problem
 - Nov 6 : started String problems
+- Nov 7 : completed 4 problems
 
 ---
 
-*Updated: Nov 6, 2025*
+*Updated: Nov 7, 2025*

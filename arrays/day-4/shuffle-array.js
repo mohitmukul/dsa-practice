@@ -28,6 +28,4 @@
         //increasing index for every position of the result array
       }
 
-
-
     }

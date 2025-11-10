@@ -40,13 +40,13 @@ function FindMissingN(){
 
 // in this approach subtracting the  actual sum with the expected sum
 function FindMissingN2(){
-    const n=nums.length
+    const n=nums.length;
 
     const expectedSum= n*(n+1)/2  /* ex= [3, 0, 1], n = 3
                                     expected sum (0+1+2+3): 3*4/2 = 
                                     Actual sum (3+0+1): 4   */
 
-    let ActualSum=0;
+    let ActualSum = 0;
     for(let i=0;i<n;i++){
         ActualSum+=nums[i];
     }
